@@ -1,4 +1,5 @@
 # linksys-mr7350-openwrt-firmware
+## upgrade mr7350
 
 
 
@@ -13,6 +14,10 @@
 
 ## Reference
 
+### Firmware Reference
+https://www.right.com.cn/forum/thread-8269474-1-1.html
+
+### OpenWre
 ![OpenWrt logo](include/logo.png)
 
 OpenWrt Project is a Linux operating system targeting embedded devices. Instead
