@@ -17,7 +17,7 @@
 ### Firmware Reference
 https://www.right.com.cn/forum/thread-8269474-1-1.html
 
-### OpenWre
+### OpenWrt
 ![OpenWrt logo](include/logo.png)
 
 OpenWrt Project is a Linux operating system targeting embedded devices. Instead
